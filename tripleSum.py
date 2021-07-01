@@ -1,4 +1,16 @@
 
+ # triple Sum
+ #  Given an array of numbers find a pair in the array who's sum is the target
+ #
+ #  inputs array = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 15 ] , targetSum = 18
+ #  output
+ #    [1, 2, 15 ]
+ #    [3, 7, 8  ]
+ #    [5, 6, 7  ]
+ #
+ #  Created by Priyabrata Das on 07/06/21
+ #
+
 
 def tripleSum (arr, targetSum):
 
